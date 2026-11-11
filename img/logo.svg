@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 180" role="img" aria-labelledby="title">
+  <title id="title">Logo HTML</title>
+  <path fill="#e44d26" d="M12 12h136l-12 136-56 20-56-20z"/>
+  <path fill="#f16529" d="M80 24h55l-10 115-45 16z"/>
+  <text x="80" y="62" fill="white" font-family="Arial, sans-serif" font-size="28" font-weight="bold" text-anchor="middle">HTML</text>
+  <path d="m57 88-20 18 20 18m46-36 20 18-20 18m-15-42-16 48" fill="none" stroke="white" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
